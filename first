@@ -1,0 +1,10 @@
+print('b:hello ,What is your name ?')
+
+myname = input()
+print('b:it is good to meet you ,'+ myname)
+print('b:whta is  the length of your name ?')
+print(len(myname))
+print('b:OK,what is your age ?')
+myage= input()
+print ('b:I think your will be '+ str(int(myage)+1))
+print('a:you are very smart,haha')
